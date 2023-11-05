@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tinder-like Swipe Cards</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">
+    <!-- Add other head elements like favicon, fonts, etc. here -->
+</head>
+<body>
+  <div class="tinder">
+    <div class="tinder--status">
+      <i class="fa fa-remove"></i>
+      <i class="fa fa-heart"></i>
+    </div>
+  
+    <div class="tinder--cards">
+      <div id="card1" class="tinder--card">
+        <img id="img1" src="{{ url_for('static', filename='images/image-10001.png') }}" alt="Image Description">
+        <h3 id="title1">Demo card 1</h3>
+        <p id="headline1">This is a demo for Tinder like swipe cards</p>
+      </div>
+    </div>
+  
+    <div class="tinder--buttons">
+      <button id="nope"><i class="fa fa-remove"></i></button>
+      <button id="love"><i class="fa fa-heart"></i></button>
+    </div>
+  </div>
+
+    <!-- Script tag at the end of body -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/hammer.js/2.0.8/hammer.min.js"></script>
+    <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>

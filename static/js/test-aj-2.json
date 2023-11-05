@@ -1,0 +1,269 @@
+{
+  "data": [
+    {
+      "title": "Daily Write Holiday Round Robin",
+      "headline": "A three-week online writing class focused on daily writing and exchange of feedback.",
+      "description": "This particular version of Round Robin with a run time of three weeks is built with the holidays in mind. It is designed to offer writers a separate space of reflection, alongside of holiday immersion. Partners offer brief written feedback on one another’s work based on daily prompts provided by the facilitator. The focus is on inspiration, motivation, and self-discipline to keep writing and generating raw material.",
+      "generativeImagePrompt": "An online writing class with daily prompts and feedback exchanges.",
+      "keyWords": ["writing", "daily prompts", "feedback", "reflection", "holiday", "self-discipline", "inspiration", "motivation"],
+      "date": "November 26 – December 17",
+      "cost": "$115.00",
+      "category": "Learning",
+      "link": "https://www.writingsalons.com/event/daily-write-holiday-round-robin-2023/",
+      "id": 0
+    },{
+    "title": "Clean Up The City SF's Volunteer Weekend w/ Free Lunch + Happy Hours (Nov. 4-5)",
+    "headline": "Join the Clean Up the City movement and beautify our neighborhoods",
+    "description": "Participate in our weekly trash-pick ups and enjoy free lunch with fellow San Franciscans. Post-cleanup, mingle with cool people during a happy hour sponsored by the CivicJoyFund.org. All the gear will be provided. Sign up today and let’s beautify San Francisco together!",
+    "generativeImagePrompt": "Volunteers cleaning San Francisco streets with bags and tools in hand, later enjoying lunch and happy hour together.",
+    "keyWords": ["Volunteer", "Clean Up", "Community", "Free Lunch", "Happy Hour"],
+    "date": "Sunday, November 5, 2023 - 10:00 am to 11:00 am",
+    "cost": "Free",
+    "category": "Volunteering",
+    "link": "https://sf.funcheap.com/clean-up-the-city-sfs-volunteer-weekend-w-free-lunch-happy-hours-nov-4-5/",
+    "id": 1
+  },{
+    "title": "SFFILM's 2023 Doc Stories: Documentary Festival (Nov. 2-5)",
+    "headline": "Annual documentary showcase celebrating the year's most significant nonfiction work",
+    "description": "The 2023 Doc Stories program explores a wide range of topics through the most thrilling and incisive narrative nonfiction filmmaking this year. From professional triumphs and personal hardships to the impacts of human-made systems of control, the festival brings to light many crucial narratives.",
+    "generativeImagePrompt": "Audiences engaged in watching thought-provoking documentaries at the Vogue Theatre.",
+    "keyWords": ["Documentary", "Film", "Festival", "Nonfiction", "Narrative"],
+    "date": "Sunday, November 5, 2023 - All Day",
+    "cost": "$18 (Normally $20, $2 off with code H26RS33)",
+    "category": "Learning",
+    "link": "https://sf.funcheap.com/sffilms-2023-doc-stories-documentary-festival-nov-2-5-3/",
+    "id": 2
+  },{
+    "title": "Asian Art Museum: Free Admission Day (Every First Sunday)",
+    "headline": "Explore the rich cultures of Asia through art",
+    "description": "The Asian Art Museum opens its doors for free every first Sunday of the month. With a collection of over 18,000 artworks, visitors can experience the rich history and contemporary creativity of Asian art. From ancient jades and ceramics to modern video installations, the museum serves as a catalyst for new art, creativity, and thinking.",
+    "generativeImagePrompt": "Visitors wandering through galleries filled with diverse and awe-inspiring Asian artworks.",
+    "keyWords": ["Art", "Culture", "Museum", "Asia", "Free Admission"],
+    "date": "Sunday, November 5, 2023 - 10:00 am to 5:00 pm",
+    "cost": "Free (Special exhibitions may require a separate admission surcharge)",
+    "category": "Creativity",
+    "link": "https://sf.funcheap.com/asian-art-museum-free-admission-day-every-first-sunday-30/",
+    "id": 3
+  },{
+    "title": "Free de Young Museum Day for Bay Area Residents (Every Saturday)",
+    "headline": "Engage with art at de Young Museum for free",
+    "description": "Every Saturday, the de Young Museum offers free general admission to the permanent galleries for Bay Area residents. The museum features engaging art experiences for the entire family, including art-making, gallery guides, and tours with discussion and sketching.",
+    "generativeImagePrompt": "Families and individuals exploring and engaging with art exhibits at de Young Museum.",
+    "keyWords": ["Art", "Museum", "Free Admission", "Family", "Culture"],
+    "date": "Every Saturday - 9:30 am to 5:15 pm",
+    "cost": "Free",
+    "category": "Creativity",
+    "link": "https://sf.funcheap.com/free-de-young-museum-day-for-bay-area-residents-every-saturday-187/",
+    "id": 4
+  },{
+    "title": "Shakespeare’s “Much Ado About Nothing” with Bard Theatre (Nov. 10-12)",
+    "headline": "Bard Theatre's inaugural production reimagines a Shakespeare classic",
+    "description": "Bard Theatre’s inaugural production of William Shakespeare’s classic comedy play, Much Ado About Nothing, reimagines Messina as a summer villa outside of Hollywood in the year 1953. The play features gorgeous starlets, dashing crooners, cunning political upstarts, and haughty heiresses, ensuring a night where wits will clash and hearts will be broken, but someone may just find their Hollywood Ending.",
+    "generativeImagePrompt": "Theatre performers on stage enacting a scene from Shakespeare’s 'Much Ado About Nothing' set in a 1953 Hollywood villa.",
+    "keyWords": ["Theatre", "Shakespeare", "Play", "Comedy", "Performance"],
+    "date": "November 10-12, 2023 - Showtimes vary",
+    "cost": "$18 (Tickets range from $20 - $65, but use promo code SHAKES10 for 10% off your tickets)",
+    "category": "Creativity",
+    "link": "https://sf.funcheap.com/shakespeares-ado-bard-theatre-nov-1012/",
+    "id": 5
+  },{
+    "title": "SF Chinatown's Brand New 2-Day Night Market (Nov. 10-11)",
+    "headline": "A brand new night market comes to San Francisco's Chinatown",
+    "description": "A brand new night market is coming to San Francisco's Chinatown, ahead of the APEC, the Asia-Pacific Economic Cooperation summit. Local merchants will be set up along a two-block stretch of Grant Avenue between Pine and Sacramento streets. You can enjoy pre-made Chinese favorites like egg tarts and BBQ pork buns. New lanterns have been hung up to add to the charm of the neighborhood. Expect street closures along Grant Avenue between Bush and Sacramento streets.",
+    "generativeImagePrompt": "Lively night market in Chinatown with lanterns and stalls selling Chinese food and goods.",
+    "keyWords": ["Night Market", "Chinatown", "Food", "Culture", "Shopping"],
+    "date": "November 10-11, 2023 - 5:00 pm to 9:00 pm",
+    "cost": "Free",
+    "category": "Socializing",
+    "link": "https://sf.funcheap.com/sf-chinatowns-brand-new-2-day-night-market-nov-10-11-2/",
+    "id": 6
+  },{
+    "title": "27 Free Guided Walking Tours For Veterans Day 2023",
+    "headline": "Explore San Francisco with free guided walking tours",
+    "description": "San Francisco City Guides offers free daily guided walking tours of San Francisco for Veterans Day. Tours include exploring beautiful views of San Francisco Bay from Crissy Field, the Coit Tower Murals, Ferry Building, Mission Murals, North Beach, and the history of San Francisco’s Barbary Coast.",
+    "generativeImagePrompt": "Groups of people taking guided walking tours around various historic and scenic locations in San Francisco.",
+    "keyWords": ["Walking Tours", "Veterans Day", "History", "Culture", "San Francisco"],
+    "date": "November 11, 2023 - 10:00 am to 2:00 pm",
+    "cost": "Free (donations appreciated, additional fee for the Japanese Tea Garden)",
+    "category": "Learning",
+    "link": "https://sf.funcheap.com/veterans-day-walking-tours-sf/",
+    "id": 7
+  },{
+    "title": "SF’s 'Clean up The City' West SoMa Cleanup (w/ Free Drink for Volunteers)",
+    "headline": "Join a neighborhood cleanup effort in West SoMa",
+    "description": "Join the Civic Joy Fund, RefuseRefuseSF, Shine On, SF Public Works, and TogetherSF for a friendly neighborhood cleanup! Volunteers will meet at Driftwood, clean for a bit, then enjoy a free drink after the 1-hour cleanup and hang out with fellow volunteers.",
+    "generativeImagePrompt": "Volunteers gathering for a neighborhood cleanup event in West SoMa, San Francisco.",
+    "keyWords": ["Volunteering", "Community Service", "Cleanup", "Socializing", "Free Drink"],
+    "date": "Every Saturday - 4:00 pm to 5:00 pm",
+    "cost": "Free",
+    "category": "Volunteering",
+    "link": "https://sf.funcheap.com/sfs-clean-up-the-city-west-soma-cleanup-w-free-drink-for-volunteers-15/",
+    "id": 8
+  },{
+    "title": "No Scrubs: '90s Hip Hop and R&B Night (SF)",
+    "headline": "Revel in '90s nostalgia with Hip Hop and R&B tunes at Neck of the Woods",
+    "description": "No Scrubs: SF’s Best ’90s Hip Hop and R&B Night is taking over San Francisco’s Neck of the Woods, an awesome nightclub on Clement Street that was recently completely remodeled in 2021 with a killer new sound system, new lighting, and a new dance floor. From TLC to the Fresh Prince, to Kid ‘N Play to Usher, DJ Beats Me will be spinning your favorite jams until the popo kick us out! NO SCRUBS ALLOWED! Wear your dancing shoes to get your groove on to the best '90s Hip Hop and R&B tunes every Saturday.",
+    "generativeImagePrompt": "People dancing to '90s Hip Hop and R&B tunes at a nightclub",
+    "keyWords": ["'90s Music", "Hip Hop", "R&B", "Dancing", "Nightclub"],
+    "date": "Every Saturday - 10:30 pm to 2:00 am",
+    "cost": "$5 (Early Bird tickets $5 with code FUNCHEAP, otherwise $10-15). Two drink minimum",
+    "category": "Socializing",
+    "link": "https://sf.funcheap.com/no-scrubs-90s-hip-hop-and-rb-night-sf-127/",
+    "id": 9
+  },{
+    "title": "Comedians with Criminal Records Live in SF",
+    "headline": "Unique showcase of professional comics with past troubles with the law",
+    "description": "Crime is no laughing matter in San Francisco… unless it’s Comedians with Criminal Records – a unique showcase of professional comics who’ve had troubles with the law in the past. In addition to a hilarious comedy set, you’ll also hear the back-story of the comedian and the crime they committed and how stand-up comedy (hopefully) helped get them back on the straight and narrow. Every show will have a different lineup, so you might hear hilarious tales about booty calls gone bad, comics getting arrested for driving a car naked, getting arrested for impersonating a police officer, one comic who led undercover officers on the foot chase of the century and more wild stories.",
+    "generativeImagePrompt": "Comics performing on stage with a backdrop of their criminal stories",
+    "keyWords": ["Comedy", "Stand-up", "True Crime", "Entertainment"],
+    "date": "Every Other Saturday Night - 7p + 9p Shows",
+    "cost": "Free with code FUNCHEAPGUEST (Limited to first 25 people), otherwise $15 with code FUNCHEAP",
+    "category": "Comedy",
+    "link": "https://sf.funcheap.com/comedians-with-criminal-records-live-in-sf-2023-47/",
+    "id": 10
+  },{
+    "title": "SF’s 2023 Union Square Christmas Tree",
+    "headline": "Macy’s Great Tree in Union Square, a San Francisco Christmas staple",
+    "description": "Macy’s Great Tree in Union Square, San Francisco’s most recognized Christmas tree, typically stands more than 83-feet tall, decorated with 43,000 twinkling energy-efficient LED lights and 700 shining ornaments. For 2023, the tree will be lit throughout the holidays in Union Square, but there may not be a large tree lighting ceremony with entertainment, with details still to be announced.",
+    "generativeImagePrompt": "An 83-foot tall Christmas tree adorned with LED lights and ornaments in Union Square in San Francisco.",
+    "keyWords": ["Christmas Tree", "Holiday Season", "Union Square", "Lights", "Decoration"],
+    "date": "November 9, 2023 – January 2024",
+    "cost": "FREE to watch",
+    "category": "Socializing",
+    "link": "https://sf.funcheap.com/macys-tree-lighting-san-francisco/",
+    "id": 11
+  },{
+    "title": "Free Admission Hour 'Japanese Tea Garden' at Golden Gate Park",
+    "headline": "Experience the natural beauty, tranquility, and harmony of a Japanese-style garden",
+    "description": "The Japanese Tea Garden provides visitors with an opportunity to experience the natural beauty, tranquility, and harmony of a Japanese-style garden in the heart of San Francisco’s Golden Gate Park. Featuring classic elements such as an arched drum bridge, pagodas, stone lanterns, stepping stone paths, native Japanese plants, serene koi ponds, and a zen garden. Cherry blossom trees bloom throughout the garden in March and April.",
+    "generativeImagePrompt": "A serene Japanese-style garden with an arched drum bridge, pagodas, stone lanterns, stepping stone paths, and cherry blossom trees in San Francisco.",
+    "keyWords": ["Japanese Tea Garden", "Tranquility", "Nature", "Harmony", "Golden Gate Park"],
+    "date": "Every Wednesday - 9:00 am to 10:00 am",
+    "cost": "FREE for San Francisco residents with valid ID and for everyone during free hours (9-10am on Monday, Wednesday, and Friday). Otherwise, non-resident admission is $10 - $13 depending on the season.",
+    "category": "Nature",
+    "link": "https://sf.funcheap.com/free-admission-hour-japanese-tea-garden-at-golden-gate-park-sf-57/",
+    "id": 12
+  },{
+    "title": "Pay What You Can Wednesday at SF’s Museum of Craft and Design",
+    "headline": "Accessible art experience with 'Pay What You Can' initiative",
+    "description": "MCD’s Pay What You Can Wednesday initiative strives to keep art accessible to all by giving visitors the opportunity to experience the latest exhibitions for whatever amount they wish. The new exhibition, 'Fight and Flight: Crafting a Bay Area Life,' is on view starting April 15th.",
+    "generativeImagePrompt": "Visitors exploring art exhibitions at the Museum of Craft and Design",
+    "keyWords": ["Art", "Accessibility", "Craft and Design", "Exhibition", "Pay What You Can"],
+    "date": "Every Wednesday - 10:00 am to 5:30 pm",
+    "cost": "FREE, Pay What You Can",
+    "category": "Learning",
+    "link": "https://sf.funcheap.com/pay-what-you-can-wednesday-at-sfs-museum-of-craft-and-design-49/",
+    "id": 13
+  },{
+    "title": "Harmonic Trivia Nights at Thrive City",
+    "headline": "Exhilarating and brain-teasing Trivia Nights at Harmonic Brewing",
+    "description": "Join us every Tuesday night for an exhilarating and brain-teasing experience at Harmonic Brewing in Thrive City! Prepare to put your knowledge to the test as we host Trivia Nights with Trivia Mafia! Gather your friends, family, or colleagues and form a formidable team of trivia enthusiasts. With a wide range of categories, including sports, history, pop culture, science, and more, there’s something for everyone to enjoy. Show off your intellectual prowess as you compete against other teams in a friendly and engaging environment. While you exercise your mind, indulge in the delightful ambiance of Harmonic Brewing. Sample their handcrafted beers, bursting with flavor and character, or savor the delicious food options available. The venue provides the perfect backdrop for a memorable night out with friends.",
+    "generativeImagePrompt": "Teams of trivia enthusiasts competing in a friendly environment at Harmonic Brewing in San Francisco.",
+    "keyWords": ["Trivia Night", "Harmonic Brewing", "Thrive City", "Knowledge Test", "Socializing"],
+    "date": "Every Tuesday Through November 21st, 2023 - 6:00 pm",
+    "cost": "FREE",
+    "category": "Socializing",
+    "link": "https://sf.funcheap.com/harmonic-trivia-nights-at-thrive-city-sf-8/",
+    "id": 14
+  },{
+    "title": "The Modern Creative Woman",
+    "headline": "Embark on a Transformative Journey of Self-Discovery and Empowerment",
+    "description": "The Modern Creative Woman offers a space for women to embark on a transformative journey of self-discovery and empowerment. It's an opportunity to express oneself authentically, cultivate meaningful relationships, and live with purpose. Led by creativity expert Dr. Amy Backos, the program pairs personal growth with creative processes.",
+    "generativeImagePrompt": "Women engaging in creative and mindful exercises for personal growth in San Francisco.",
+    "keyWords": ["Self-Discovery", "Empowerment", "Creativity", "Mindfulness", "Personal Growth"],
+    "date": "Three Zoom classes a month",
+    "cost": "Membership-based with value-added materials",
+    "category": "Learning",
+    "link": "https://moderncreativewoman.com/modern-creative-woman/",
+    "id": 15
+  },{
+    "title": "Art for Recovery",
+    "headline": "Creative Expression for Healing and Well-being",
+    "description": "Art for Recovery is an award-winning program at UCSF Helen Diller Comprehensive Cancer Center. It provides patients coping with life-threatening illnesses like AIDS and cancer the opportunity to express their feelings and experiences through art. This creative process is part of their healing journey. Projects include art, writing, and music support groups, sterilized art kits for hospitalized patients, the Firefly Project letter exchange, and employee well-being workshops.",
+    "generativeImagePrompt": "Patients engaging in art, writing, and music as part of their healing journey",
+    "keyWords": ["Art Therapy", "Healing", "Creative Expression", "Support Groups", "Well-being"],
+    "date": "M-F, 8 a.m. - 5 p.m.",
+    "cost": "Contact for details",
+    "category": "Therapy",
+    "link": "https://www.ucsfhealth.org/services/art-for-recovery",
+    "id": 16
+  },{
+    "title": "Online Harm Reduction Psychoeducational Group",
+    "headline": "Equip yourself with knowledge and skills to make responsible, informed decisions about alcohol.",
+    "description": "Our brief, yet comprehensive course is designed to promote mindful drinking. Whether you're a casual drinker or an occasional celebrator, this program is tailored for individuals who want to make informed choices about alcohol. Master strategies for controlling your alcohol intake and preventing overindulgence.",
+    "generativeImagePrompt": "A mindful drinking online course with strategies for moderation.",
+    "keyWords": ["Alcohol", "Mindful Drinking", "Moderation", "Responsibility"],
+    "date": "Starting Nov. 16 thru Dec 21, Thursdays from 3-4:30pm (off 11/23)",
+    "cost": "$500 (can be paid upfront or weekly)",
+    "category": "Learning",
+    "link": "https://www.cacenterforchange.com/support-groups",
+    "id": 17
+  },{
+    "title": "Online Harm Reduction Group for Women",
+    "headline": "Change your relationship with drugs and alcohol in a safe and supportive setting.",
+    "description": "This weekly group is for women identified folks who want to change their relationship with drugs and alcohol using evidence-based treatment. Topics related to relationships, sexuality, gender, depression, anxiety, and trauma are addressed.",
+    "generativeImagePrompt": "A supportive group for women addressing substance use and related topics.",
+    "keyWords": ["Women", "Substance Use", "Support Group", "Evidence-Based Treatment"],
+    "date": "Weekly group",
+    "cost": "$200 intake (sliding scale available), $70 each group, and $25 for the workbook",
+    "category": "Therapy",
+    "link": "https://www.cacenterforchange.com/support-groups",
+    "id": 18
+  },{
+    "title": "Sober Curious Online Course",
+    "headline": "Explore the benefits of an alcohol-free lifestyle.",
+    "description": "This 4-week course is tailored to meet you exactly where you are on your journey towards sobriety. Gain practical tools to navigate social situations, cope with triggers, and live in alignment with your values and goals.",
+    "generativeImagePrompt": "An online course exploring sobriety and its impact on well-being.",
+    "keyWords": ["Sobriety", "Alcohol-Free", "Well-Being", "Moderation"],
+    "date": "Starting January 4, 2024, Thursdays from 3-4:30pm",
+    "cost": "$400 (can be paid upfront or weekly)",
+    "category": "Learning",
+    "link": "https://www.cacenterforchange.com/support-groups",
+    "id": 19
+  },{
+    "title": "Responsible Drinking Online Course",
+    "headline": "Learn to make informed choices about alcohol.",
+    "description": "Our brief, yet comprehensive course is designed to promote mindful drinking. Learn tips and strategies for drinking less, create a moderation plan for high-risk situations, and gain accountability.",
+    "generativeImagePrompt": "An online course on responsible alcohol consumption.",
+    "keyWords": ["Alcohol", "Mindful Drinking", "Moderation", "Responsibility"],
+    "date": "Starting Nov. 16 thru Dec 21, Thursdays from 3-4:30pm (off 11/23)",
+    "cost": "$500 (can be paid upfront or weekly)",
+    "category": "Learning",
+    "link": "https://www.cacenterforchange.com/support-groups",
+    "id": 20
+  },{
+    "title": "Weekly Group Practice of Trauma-Sensitive Mindfulness Meditation",
+    "headline": "Join a community for trauma-sensitive mindfulness meditation practice.",
+    "description": "This 1.5-hour online practice is an opportunity to engage in trauma-sensitive mindfulness meditation within a supportive community. The session includes an arrival practice, a conversation about the practice, and the practice itself, led by a certified instructor. It's particularly beneficial for those seeking additional support on their trauma healing journey.",
+    "generativeImagePrompt": "An online group practicing trauma-sensitive mindfulness meditation.",
+    "keyWords": ["Trauma-Sensitive", "Mindfulness", "Meditation", "Healing"],
+    "date": "Wednesday, November 8, 2023 at 11:00 AM to 12:30 PM PST",
+    "cost": "Recommended minimum amount of payment - 10 dollars/euro/Swiss francs/pounds, yet no one will be turned away for the lack of funds",
+    "category": "Mindfulness",
+    "link": "https://www.meetup.com/san-francisco-trauma-sensitive-mindfulness-meditation-group/events/297140555/",
+    "id": 21
+  },{
+    "title": "Serenity Seekers San Francisco",
+    "headline": "Open English AA Meeting",
+    "description": "Serenity Seekers is an open Alcoholics Anonymous meeting conducted in English. It provides a supportive environment for individuals seeking help and guidance with alcohol addiction.",
+    "generativeImagePrompt": "A group of individuals gathered for a supportive meeting.",
+    "keyWords": ["AA Meeting", "Support", "Alcohol Addiction", "Recovery", "Community"],
+    "date": "Weekly on Monday, 7:30 pm - 8:30 pm",
+    "cost": "Free",
+    "category": "Therapy",
+    "link": "https://alcoholicsanonymous.com/aa-meeting/serenity-seekers-san-francisco/",
+    "id": 22
+  },{
+    "title": "The Artist’s Way for Writers",
+    "headline": "A Course in Discovering and Recovering Your Creative Self",
+    "description": "A six-week introduction to Julia Cameron’s The Artist’s Way method, aimed at overcoming self-doubt and perfectionism. It’s a spiritual, cathartic course led by Julia Silverberg Németh, designed to heal writers from emotional self-sabotage and liberate their creative selves.",
+    "generativeImagePrompt": "Writers gathered online, exploring creativity and overcoming self-doubt.",
+    "keyWords": ["Creativity", "Writing", "Self-Exploration", "Healing", "Writer’s Block"],
+    "date": "November 3, 2023 - December 15, 2023 (No class on November 10th for Veteran’s Day)",
+    "cost": "$395",
+    "category": "Creativity",
+    "link": "https://sfwriting.institute/events/the-artists-way-for-writers/",
+    "id": 23
+  }
+  ]
+}
