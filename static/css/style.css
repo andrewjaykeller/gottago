@@ -140,3 +140,8 @@ body {
 .fa-remove {
   color: #CDD6DD;
 }
+
+.desc {
+  font-size: 12px;
+  margin-bottom: 8px;
+}

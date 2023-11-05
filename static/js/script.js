@@ -68,7 +68,7 @@ allCards.forEach(function (el) {
 
     console.log("keep: " + keep);
 
-    event.target.classList.toggle('removed', !keep);
+    // event.target.classList.toggle('removed', !keep);
 
     if (keep) {
       event.target.style.transform = '';
@@ -150,8 +150,15 @@ function updateCard() {
 
 document.addEventListener('DOMContentLoaded', (event) => {
   var myDiv = document.getElementById('card1');
+  console.log("refreshed");
+  fetch('/reset')
+    .then(response => response.text())
+    .then(data => console.log(data))
+    .catch(error => console.error('Error:', error));
 
-  myDiv.addEventListener('click', function() {
+  nextId = Math.floor(Math.random() * 24);
+
+  myDiv.addEventListener('dblclick', function() {
       console.log('Div clicked!');
       window.open(currentCard.link, '_blank');
       // Handle the click event

@@ -18,6 +18,13 @@ numbers = list(range(n_datapoints))
 used_suggestions = []
 
 
+@app.route("/reset")
+def reset():
+    global used_suggestions
+    used_suggestions = []
+    return "reset"
+
+
 @app.route("/api/user-feedback", methods=["POST"])
 def receive_data():
     global used_suggestions
@@ -26,10 +33,9 @@ def receive_data():
     # Do something with the data
     user_feedback = data["userFeedback"]
     id = data["id"]
+    if len(used_suggestions) == n_datapoints:
+        used_suggestions = []
     used_suggestions.append(id)
-    # print("current id", id)
-    # print("number of used suggestions", len(used_suggestions))
-    # print("user feedback", user_feedback)
     if user_feedback == 1:
         nextId = recommendation(id, user_feedback, used_suggestions)
     else:
